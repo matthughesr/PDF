@@ -29,6 +29,7 @@ Py merge.py
 ```
 Python merge.py
 ```
+- or whatever command you need to use to run the script
 
 ### Boom now you have a PDF in the root directory that has it all combined
 
